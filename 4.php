@@ -156,7 +156,7 @@ if(empty($email) ){
     $errors['Cv']  = "image Uploaded Failed"; 
 }else
 {
-  $errors['Cv']  = "Invalid Extention"; 
+  $errors['Cv']  = "Invalid Exstention"; 
 }
 
 # Validate Gender .. 
